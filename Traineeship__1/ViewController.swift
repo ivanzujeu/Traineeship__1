@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         super.viewWillAppear(animated)
     }
     
+    var array: [Int] = Array()
+    
     
    
 }
